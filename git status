@@ -1,0 +1,85 @@
+commit ea86641151837a31bec9ce1e28b902cc0ffb9cac (HEAD -> master, origin/master, 
+origin/HEAD)
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 10:08:23 2019 -0500
+
+    Update README.md
+
+commit acd13c1ee1f95e12afcf8a340b1ea4a0e65bcfce
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 10:07:43 2019 -0500
+
+    updated README
+
+commit add28fdb5ceda893b4c8122e85d6881e9b05cb6f
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 10:05:08 2019 -0500
+
+    Update README.md
+
+commit 8cb82bac53522331d7e9fb52671bcff3f08d4ead
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 10:03:40 2019 -0500
+
+    Update README.md
+
+commit d626607273b07ca2bf088d0d3a7f7d6295346706
+Merge: 1200b63 6fbc6b8
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 10:02:45 2019 -0500
+
+    Merge branch 'master' of https://github.com/FoleyLab/2019-Tapia-MolSSI
+
+commit 1200b63342bc3100dc90ebca441b0575036becf5
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 10:02:36 2019 -0500
+
+    Create Overview.pdf
+
+commit 6fbc6b8d0d8a071ee0170a69d9dcb38487e7bde8
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 09:55:58 2019 -0500
+
+    Update README.md
+
+commit 59556c9fb40b8eae32d52d0f7e4a1d61fb5d3191
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 09:52:48 2019 -0500
+
+    fixed a few lingering typos
+
+commit e797f2b82706c882bba4c618b137867a54fc8db8
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 05:43:39 2019 -0500
+
+    Fixed typo in notebook, added flow chart to slides!
+
+commit fee3410934b573c3a306c1049c5871ccd57bd952
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Wed Jun 12 05:33:17 2019 -0500
+
+    added MD further reading
+
+commit 04cc6c9d2f90e9af1744a72bfdfe0ca3252cb73a
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Tue Jun 11 21:38:24 2019 -0500
+
+    updated repo with brief overview slides and adverts
+
+commit 6a70357bdc3d8a5eadfcd293dc54b1685ca6dd21
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Sat Jun 8 12:13:54 2019 -0400
+
+    removed elements from template that students will write in workshop
+
+commit 242da7cd5694164390b8e34e10c720cbc5b8adff
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Sat Jun 8 11:42:30 2019 -0400
+
+    removed master and added template
+
+commit b5f758cc94a7270571c80962a76f4ba4e322382a
+Author: FoleyLab <jayfoleyiv@gmail.com>
+Date:   Fri Jun 7 16:15:05 2019 -0400
+
+    stashed ab initio data just in case!
